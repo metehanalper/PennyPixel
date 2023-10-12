@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "com.unity.2d.animation": "5.0.10",
+    "com.unity.2d.pixel-perfect": "4.0.1",
+    "com.unity.2d.psdimporter": "4.1.3",
+    "com.unity.2d.sprite": "1.0.0",
+    "com.unity.2d.spriteshape": "5.1.7",
+    "com.unity.2d.tilemap": "1.0.0"
+  },
+  "description": "This is an empty project configured for 2D apps. It uses Unity's built-in renderer.",
+  "displayName": "2D",
+  "host": "hub",
+  "name": "com.unity.template.2d",
+  "type": "template",
+  "unity": "2020.3",
+  "version": "5.0.1",
+  "upmCi": {
+    "footprint": "641a7fb2b7d45644bf57baaf6d4be7ea03ca961b"
+  },
+  "repository": {
+    "url": "https://github.cds.internal.unity3d.com/unity/2d.git",
+    "type": "git",
+    "revision": "e1ff2896b994f5eb1cc6bec519c643b3e2cd32ec"
+  }
+}
